@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Block Blast.iml" filepath="$PROJECT_DIR$/Block Blast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoogleMobileAdsPlugin/GoogleMobileAdsPlugin.iml" filepath="$PROJECT_DIR$/GoogleMobileAdsPlugin/GoogleMobileAdsPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GooglePlayGamesManifest.plugin/GooglePlayGamesManifest.plugin.iml" filepath="$PROJECT_DIR$/GooglePlayGamesManifest.plugin/GooglePlayGamesManifest.plugin.iml" />
+    </modules>
+  </component>
+</project>

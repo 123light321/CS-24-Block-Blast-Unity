@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:1-24:12
+	package
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:5:5-51
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:7:5-30
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:4:11-69
+	android:versionCode
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:6:5-28
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+application
+ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:9:5-23:19
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:14:9-15:49
+	android:value
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:15:13-46
+	android:name
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:14:20-70
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:18:9-19:44
+	android:value
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:19:13-41
+	android:name
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:18:20-76
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:21:9-22:86
+	android:theme
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml:21:19-78
+uses-sdk
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+		ADDED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
+		INJECTED from E:\Projects\FYP\Block Blast\APK\Block Blast\GooglePlayGamesManifest.plugin\AndroidManifest.xml
